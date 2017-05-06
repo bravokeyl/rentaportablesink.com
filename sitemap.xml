@@ -1,39 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>http://rentaportablesink.com/</loc>
-	</url>
-	<url>
-		<loc>http://rentaportablesink.com/sink-models/food-sampling/</loc>
-		<lastmod>2016-12-26T01:29:31-08:00</lastmod>
-	</url>
-	<url>
-		<loc>http://rentaportablesink.com/sink-models/festival-fair/</loc>
-		<lastmod>2016-12-26T01:29:31-08:00</lastmod>
-	</url>
-	<url>
-		<loc>http://rentaportablesink.com/sink-models/wedding/</loc>
-		<lastmod>2016-12-26T01:29:31-08:00</lastmod>
-	</url>
-	<url>
-		<loc>http://rentaportablesink.com/sink-models/health-medical/</loc>
-		<lastmod>2016-12-26T01:29:31-08:00</lastmod>
-	</url>
-	<url>
-		<loc>http://rentaportablesink.com/sink-models/tail-gating/</loc>
-		<lastmod>2016-12-26T01:29:31-08:00</lastmod>
-	</url>
-	<url>
-		<loc>http://rentaportablesink.com/sink-models/cosmetology/</loc>
-		<lastmod>2016-12-26T01:29:31-08:00</lastmod>
-	</url>
-	<url>
-		<loc>http://rentaportablesink.com/contact-us/</loc>
-		<lastmod>2016-12-26T01:29:31-08:00</lastmod>
-	</url>
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.rentaportablesink.com/</loc>
+  <lastmod>2017-02-02T16:45:39+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.rentaportablesink.com/contact-us/</loc>
+  <lastmod>2017-01-11T15:50:28+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.rentaportablesink.com/sink-models/food-sampling/</loc>
+  <lastmod>2017-02-02T16:50:52+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.rentaportablesink.com/sink-models/festival-fair/</loc>
+  <lastmod>2017-02-02T16:53:00+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.rentaportablesink.com/sink-models/wedding/</loc>
+  <lastmod>2017-02-02T16:56:30+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.rentaportablesink.com/sink-models/health-medical/</loc>
+  <lastmod>2017-02-02T16:58:40+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.rentaportablesink.com/sink-models/tail-gating/</loc>
+  <lastmod>2017-02-02T17:00:53+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.rentaportablesink.com/sink-models/cosmetology/</loc>
+  <lastmod>2017-02-02T17:08:22+00:00</lastmod>
+  <changefreq>always</changefreq>
+</url>
 </urlset>
