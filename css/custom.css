@@ -1,0 +1,90 @@
+/* Add here all your CSS customizations */
+.clearfix {
+  clear: both;
+  overflow: hidden;
+}
+.text-center {
+  text-align: center;
+}
+.slide-body-wrap {
+  position: relative;
+}
+.slide-body {
+  position: absolute;
+  top: 100px;
+}
+section.section-steps {
+  padding-top: 0px;
+  border: none;
+}
+.featured-box-full img {
+  margin: 0 auto;
+}
+.home-intro {
+  margin-bottom: 0px;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-custom {
+  display: inline-block;
+  font-size: 40px;
+  line-height: 72px;
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  color: #FFF;
+  background-color: #2baab1;
+}
+.call-to-action.call-to-action-in-footer-margin-top {
+    margin-top: 4px;
+    background: #fff;
+}
+.call-to-action.call-to-action-in-footer:before {
+    border-top: 20px solid #ccc;
+}
+.call-to-action-secondary.call-to-action-in-footer:before {
+    border-top: 20px solid #fff;
+}
+.page-body {
+  margin-top: 30px;
+}
+.model {
+  padding: 20px 0px;
+  border: 2px solid #eee;
+  margin: 25px 0px;
+}
+.model-img {
+  padding-left: 30px;
+}
+.model-name {
+  padding-left: 30px;
+}
+.dimensions {
+  margin-bottom: 15px;
+}
+
+#footer .contact i.icon-envelope {
+    font-size: 1em;
+    top: 0;
+}
+@media (max-width: 991px){
+  .header-container.top-header {
+      float: left;
+  }
+  .slide-body {
+    position: relative;;
+    top: 0px;
+  }
+  .owl-carousel .owl-nav {
+    display: none;
+  }
+}
